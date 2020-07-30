@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px;
+}
+.intro{
+    margin: 20px 15%;
+}
+#btn-comenzar{
+    height: 50px;
+    width: 250px;
+}
+#palindromo{
+    width: 100%;
+}
+.tabla{
+    margin: 80px;
+    text-align: center;
+}
